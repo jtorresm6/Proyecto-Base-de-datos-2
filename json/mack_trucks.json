@@ -1,0 +1,19 @@
+{
+  "id_marca": 510,
+  "nombre_marca": "Mack Trucks",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1900,
+  "sede": "Greensboro, Carolina del Norte, EE.UU.",
+  "descripcion": "Mack Trucks es un fabricante estadounidense de camiones pesados de construccion y transporte, reconocido por su bulldog emblematico y su durabilidad extrema.",
+  "productos_principales": [
+    "Camiones Granite (6x4, 6x6, 8x4)",
+    "Camiones Anthem (semirremolque)",
+    "Camiones Pinnacle (carretera)",
+    "Camiones LR (residuos solidos)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3011, "placa": "M-012-GTQ", "modelo": "Mack Granite 6x4"}
+  ],
+  "sitio_web_oficial": "https://www.macktrucks.com",
+  "ultima_actualizacion": "2024-01-01"
+}

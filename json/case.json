@@ -1,0 +1,19 @@
+{
+  "id_marca": 506,
+  "nombre_marca": "Case",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1842,
+  "sede": "Racine, Wisconsin, EE.UU.",
+  "descripcion": "Case Construction Equipment es una marca de CNH Industrial que fabrica una amplia gama de equipos de construccion con mas de 175 anios de historia.",
+  "productos_principales": [
+    "Cargadores frontales (821G, 921G)",
+    "Retroexcavadoras (580N, 695ST)",
+    "Excavadoras (CX220D, CX490D)",
+    "Motoniveladoras (856D, 872D)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3008, "placa": "M-009-GTQ", "modelo": "Case 821G"}
+  ],
+  "sitio_web_oficial": "https://www.casece.com",
+  "ultima_actualizacion": "2024-01-01"
+}

@@ -1,0 +1,21 @@
+{
+  "id_marca": 504,
+  "nombre_marca": "John Deere",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1837,
+  "sede": "Moline, Illinois, EE.UU.",
+  "descripcion": "Deere & Company es un fabricante estadounidense de maquinaria agricola, de construccion y forestal, conocido mundialmente por su color verde y amarillo caracteristico.",
+  "productos_principales": [
+    "Retroexcavadoras (310L, 410L, 710L)",
+    "Excavadoras (350G, 470G)",
+    "Pavimentadoras (P524B, P820A)",
+    "Cargadores (544, 744, 844)",
+    "Motoniveladoras (670GP, 872GP)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3006, "placa": "M-007-GTQ", "modelo": "John Deere 310L"},
+    {"id_maquinaria": 3018, "placa": "M-019-GTQ", "modelo": "John Deere P524"}
+  ],
+  "sitio_web_oficial": "https://www.deere.com",
+  "ultima_actualizacion": "2024-01-01"
+}

@@ -1,0 +1,27 @@
+{
+  "id_marca": 501,
+  "nombre_marca": "Komatsu",
+  "pais_origen": "Japon",
+  "fundacion": 1921,
+  "sede": "Minato, Tokyo, Japon",
+  "descripcion": "Komatsu Ltd. es el segundo mayor fabricante de maquinaria de construccion y mineria del mundo, con presencia en mas de 140 paises.",
+  "productos_principales": [
+    "Excavadoras (PC210, PC360, PC490)",
+    "Bulldozers (D51, D85, D155)",
+    "Cargadores frontales (WA320, WA500)",
+    "Mini excavadoras (PC55MR, PC88MR)",
+    "Camiones de acarreo (HD325, HD785)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3001, "placa": "M-002-GTQ", "modelo": "Komatsu PC210"},
+    {"id_maquinaria": 3003, "placa": "M-004-GTQ", "modelo": "Komatsu D85"},
+    {"id_maquinaria": 3014, "placa": "M-015-GTQ", "modelo": "Komatsu PC55MR"}
+  ],
+  "contacto_distribuidor_gt": {
+    "nombre": "Maquinaria Agricola Industrial",
+    "telefono": "2413-5800",
+    "direccion": "Zona 12, Guatemala City"
+  },
+  "sitio_web_oficial": "https://www.komatsu.com",
+  "ultima_actualizacion": "2024-01-01"
+}

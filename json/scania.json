@@ -1,0 +1,18 @@
+{
+  "id_marca": 514,
+  "nombre_marca": "Scania",
+  "pais_origen": "Suecia",
+  "fundacion": 1891,
+  "sede": "Sodertalje, Suecia",
+  "descripcion": "Scania AB es un fabricante sueco de camiones y autobuses pesados, parte del Grupo Volkswagen. Conocido por su modularidad y alta eficiencia de combustible.",
+  "productos_principales": [
+    "Serie R (carretera premium)",
+    "Serie S (cabina alta premium)",
+    "Serie G (todo terreno)",
+    "Serie P (distribucion urbana)"
+  ],
+  "modelos_en_flota": [],
+  "nota": "Marca usada en camiones grua de transporte de maquinaria",
+  "sitio_web_oficial": "https://www.scania.com",
+  "ultima_actualizacion": "2024-01-01"
+}

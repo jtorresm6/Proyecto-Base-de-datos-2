@@ -1,0 +1,18 @@
+{
+  "id_marca": 509,
+  "nombre_marca": "Hyundai CE",
+  "pais_origen": "Corea del Sur",
+  "fundacion": 1985,
+  "sede": "Seoul, Corea del Sur",
+  "descripcion": "HD Hyundai Construction Equipment (antes Hyundai CE) fabrica excavadoras, cargadores y otros equipos de construccion con tecnologia coreana avanzada.",
+  "productos_principales": [
+    "Excavadoras (HX145A, HX380A)",
+    "Cargadores de ruedas (HL955A)",
+    "Mini excavadoras (R25Z, R55W)",
+    "Compactadoras (HDC80)"
+  ],
+  "modelos_en_flota": [],
+  "nota": "Marca disponible para expansion de flota",
+  "sitio_web_oficial": "https://www.hd-xite.com",
+  "ultima_actualizacion": "2024-01-01"
+}

@@ -1,0 +1,21 @@
+{
+  "id_marca": 503,
+  "nombre_marca": "Liebherr",
+  "pais_origen": "Alemania",
+  "fundacion": 1949,
+  "sede": "Bulle, Suiza / Biberach, Alemania",
+  "descripcion": "Liebherr es un grupo familiar multinacional alemán-suizo que fabrica gruas, maquinaria de construccion, sistemas de refrigeracion, aeronautica y componentes electrodomesticos.",
+  "productos_principales": [
+    "Gruas torre (EC-B, L1, ECH)",
+    "Gruas moviles (LTM 1100, LTM 1500)",
+    "Gruas articuladas (LTF 1045)",
+    "Excavadoras (R 906, R 950)",
+    "Camiones mineros (T 264)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3005, "placa": "M-006-GTQ", "modelo": "Liebherr LTM 1100"},
+    {"id_maquinaria": 3017, "placa": "M-018-GTQ", "modelo": "Liebherr LTF 1045"}
+  ],
+  "sitio_web_oficial": "https://www.liebherr.com",
+  "ultima_actualizacion": "2024-01-01"
+}

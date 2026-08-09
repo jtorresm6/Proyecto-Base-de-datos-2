@@ -1,0 +1,18 @@
+{
+  "id_marca": 507,
+  "nombre_marca": "Terex",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1925,
+  "sede": "Norwalk, Connecticut, EE.UU.",
+  "descripcion": "Terex Corporation fabrica una amplia gama de equipos de construccion, levantamiento y manejo de materiales para mercados globales de construccion e infraestructura.",
+  "productos_principales": [
+    "Gruas telescopicas (RT, AC series)",
+    "Plataformas elevadoras (AWP, boom lifts)",
+    "Camiones de obra (TA25, TA400)",
+    "Procesadoras de materiales"
+  ],
+  "modelos_en_flota": [],
+  "nota": "Marca disponible para expansion de flota",
+  "sitio_web_oficial": "https://www.terex.com",
+  "ultima_actualizacion": "2024-01-01"
+}

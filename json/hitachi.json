@@ -1,0 +1,20 @@
+{
+  "id_marca": 505,
+  "nombre_marca": "Hitachi",
+  "pais_origen": "Japon",
+  "fundacion": 1910,
+  "sede": "Chiyoda, Tokyo, Japon",
+  "descripcion": "Hitachi Construction Machinery fabrica excavadoras, cargadores y equipos de movimiento de tierra reconocidos por su durabilidad y tecnologia avanzada.",
+  "productos_principales": [
+    "Excavadoras (ZX200, ZX350, ZX890)",
+    "Mini excavadoras (ZX33U, ZX55U)",
+    "Perforadoras (ZX33U adaptado)",
+    "Cargadores de ruedas (ZW310)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3007, "placa": "M-008-GTQ", "modelo": "Hitachi ZX200"},
+    {"id_maquinaria": 3019, "placa": "M-020-GTQ", "modelo": "Hitachi ZX33U"}
+  ],
+  "sitio_web_oficial": "https://www.hitachicm.com",
+  "ultima_actualizacion": "2024-01-01"
+}

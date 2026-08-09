@@ -1,0 +1,19 @@
+{
+  "id_marca": 511,
+  "nombre_marca": "Kenworth",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1923,
+  "sede": "Kirkland, Washington, EE.UU.",
+  "descripcion": "Kenworth Truck Company fabrica camiones pesados de alta calidad, conocidos por su personalizacion, confort del conductor y capacidad de carga extrema.",
+  "productos_principales": [
+    "Kenworth T800 (construccion pesada)",
+    "Kenworth T680 (carretera larga)",
+    "Kenworth W900 (clasico americano)",
+    "Kenworth C500 (mineria y construccion)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3012, "placa": "M-013-GTQ", "modelo": "Kenworth T800"}
+  ],
+  "sitio_web_oficial": "https://www.kenworth.com",
+  "ultima_actualizacion": "2024-01-01"
+}

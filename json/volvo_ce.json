@@ -1,0 +1,21 @@
+{
+  "id_marca": 502,
+  "nombre_marca": "Volvo CE",
+  "pais_origen": "Suecia",
+  "fundacion": 1832,
+  "sede": "Gothenburg, Suecia",
+  "descripcion": "Volvo Construction Equipment es un fabricante sueco de equipos de construccion, conocido por su enfoque en seguridad, sostenibilidad y innovacion.",
+  "productos_principales": [
+    "Excavadoras (EC220, EC380, EC950)",
+    "Cargadores de ruedas (L90, L120, L260)",
+    "Articulados (A25, A40)",
+    "Motoniveladoras (G930, G960)",
+    "Pavimentadoras (P6820)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3004, "placa": "M-005-GTQ", "modelo": "Volvo EC380"},
+    {"id_maquinaria": 3015, "placa": "M-016-GTQ", "modelo": "Volvo G946B"}
+  ],
+  "sitio_web_oficial": "https://www.volvoce.com",
+  "ultima_actualizacion": "2024-01-01"
+}

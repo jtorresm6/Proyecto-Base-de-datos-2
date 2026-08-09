@@ -1,0 +1,18 @@
+{
+  "id_marca": 513,
+  "nombre_marca": "Mercedes-Benz",
+  "pais_origen": "Alemania",
+  "fundacion": 1926,
+  "sede": "Stuttgart, Baden-Wurttemberg, Alemania",
+  "descripcion": "Mercedes-Benz Trucks es una division de Daimler AG que fabrica camiones pesados de alta tecnologia y eficiencia para transporte de larga y corta distancia.",
+  "productos_principales": [
+    "Actros (carretera de largo recorrido)",
+    "Arocs (construccion y mineria)",
+    "Atego (distribucion urbana)",
+    "Axor (transporte regional)"
+  ],
+  "modelos_en_flota": [],
+  "nota": "Marca usada en plataformas extensibles de transporte de maquinaria",
+  "sitio_web_oficial": "https://www.mercedes-benz-trucks.com",
+  "ultima_actualizacion": "2024-01-01"
+}

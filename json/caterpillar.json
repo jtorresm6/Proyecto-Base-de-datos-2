@@ -1,0 +1,30 @@
+{
+  "id_marca": 500,
+  "nombre_marca": "Caterpillar",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1925,
+  "sede": "Deerfield, Illinois, EE.UU.",
+  "descripcion": "Caterpillar Inc. es el mayor fabricante mundial de maquinaria de construccion y mineria, motores diesel y de gas natural, turbinas industriales y locomotoras diesel-eléctricas.",
+  "productos_principales": [
+    "Excavadoras (320, 336, 390)",
+    "Bulldozers (D6, D8, D11)",
+    "Cargadores frontales (950M, 966, 982)",
+    "Camiones articulados (745, 770)",
+    "Motoniveladoras (120, 140, 160)",
+    "Retroexcavadoras (416F2, 420, 430)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3000, "placa": "M-001-GTQ", "modelo": "CAT 320"},
+    {"id_maquinaria": 3002, "placa": "M-003-GTQ", "modelo": "CAT 950M"},
+    {"id_maquinaria": 3010, "placa": "M-011-GTQ", "modelo": "CAT 745"},
+    {"id_maquinaria": 3013, "placa": "M-014-GTQ", "modelo": "CAT CS56"},
+    {"id_maquinaria": 3016, "placa": "M-017-GTQ", "modelo": "CAT 745C"}
+  ],
+  "contacto_distribuidor_gt": {
+    "nombre": "Tracsa Guatemala",
+    "telefono": "2329-9000",
+    "direccion": "Km 14.5 Calzada Roosevelt, Guatemala"
+  },
+  "sitio_web_oficial": "https://www.caterpillar.com",
+  "ultima_actualizacion": "2024-01-01"
+}

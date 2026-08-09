@@ -1,0 +1,18 @@
+{
+  "id_marca": 512,
+  "nombre_marca": "Freightliner",
+  "pais_origen": "Estados Unidos",
+  "fundacion": 1942,
+  "sede": "Portland, Oregon, EE.UU.",
+  "descripcion": "Freightliner Trucks es la marca de camiones pesados mas vendida en America del Norte, parte del grupo Daimler Trucks North America.",
+  "productos_principales": [
+    "Cascadia (carretera eficiente)",
+    "Coronado (carga pesada)",
+    "122SD (construccion y mineria)",
+    "114SD (servicio municipal)"
+  ],
+  "modelos_en_flota": [],
+  "nota": "Marca usada en vehiculos de transporte de maquinaria (plataformas bajas)",
+  "sitio_web_oficial": "https://www.freightliner.com",
+  "ultima_actualizacion": "2024-01-01"
+}

@@ -1,0 +1,20 @@
+{
+  "id_marca": 508,
+  "nombre_marca": "JCB",
+  "pais_origen": "Reino Unido",
+  "fundacion": 1945,
+  "sede": "Rocester, Staffordshire, Reino Unido",
+  "descripcion": "JCB es un fabricante britanico privado de equipos de construccion, conocido principalmente por sus retroexcavadoras 3CX y 4CX que son las mas vendidas del mundo.",
+  "productos_principales": [
+    "Retroexcavadoras (3CX, 4CX, 5CX)",
+    "Mini excavadoras (8008, 8016, 8085)",
+    "Cargadores (407, 417, 437)",
+    "Dumpers (1T, 3T, 10T)",
+    "Telehandlers (525, 535, 540)"
+  ],
+  "modelos_en_flota": [
+    {"id_maquinaria": 3009, "placa": "M-010-GTQ", "modelo": "JCB 3CX"}
+  ],
+  "sitio_web_oficial": "https://www.jcb.com",
+  "ultima_actualizacion": "2024-01-01"
+}
